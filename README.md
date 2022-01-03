@@ -1,0 +1,2 @@
+# placeholder-shops
+json placeholder
