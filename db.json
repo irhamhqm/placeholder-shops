@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "uid": "0001",
+      "productName": "orange",
+      "productImageUrl": "https://i.ibb.co/g49xZ6R/19-orange-png-image-download.jpg",
+      "price": 10000,
+      "availableQuantity": 100
+    },
+    {
+      "uid": "0002",
+      "productName": "Juice",
+      "productImageUrl": "https://i.ibb.co/6XnTH1T/11-juice-png-image.jpg",
+      "price": 15000,
+      "availableQuantity": 100
+    },
+    {
+      "uid": "0003",
+      "productName": "Strawberry",
+      "productImageUrl": "https://i.ibb.co/pKdF0yS/1-strawberry-png-images.jpg",
+      "price": 20000,
+      "availableQuantity": 100
+    },
+    {
+      "uid": "0004",
+      "productName": "Mango",
+      "productImageUrl": "https://i.ibb.co/Q6nWh0d/7-2-mango-free-png-image.jpg",
+      "price": 15000,
+      "availableQuantity": 100
+    },
+    {
+      "uid": "0005",
+      "productName": "Apple",
+      "productImageUrl": "https://i.ibb.co/SrkgGzx/9-apple-png-image.jpg",
+      "price": 10000,
+      "availableQuantity": 100
+    },
+    {
+      "uid": "0006",
+      "productName": "Pineapple",
+      "productImageUrl": "https://i.ibb.co/0CjSMN2/2-pineapple-png-image-download.jpg",
+      "price": 17000,
+      "availableQuantity": 100
+    },
+    {
+      "uid": "0007",
+      "productName": "Lemon",
+      "productImageUrl": "https://i.ibb.co/wRBYsfm/4-lemon-png-image.jpg",
+      "price": 16000,
+      "availableQuantity": 100
+    },
+    {
+      "uid": "0008",
+      "productName": "Grape",
+      "productImageUrl": "https://i.ibb.co/ZLZKKV8/4-grape-png-image-download-picture.jpg",
+      "price": 23000,
+      "availableQuantity": 100
+    },
+    {
+      "uid": "0009",
+      "productName": "Banana",
+      "productImageUrl": "https://i.ibb.co/Kh6p8Gq/8-banana-png-image.jpg",
+      "price": 12000,
+      "availableQuantity": 100
+    }
+  ]
+}
